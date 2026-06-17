@@ -6,7 +6,7 @@ const destinationTimezones = {
   "Sydney, Australia": "Australia/Sydney",
   "Melbourne, Australia": "Australia/Melbourne",
   "Tokyo, Japan": "Asia/Tokyo",
-  "Kyoto, Japan": "Asia/Kyoto",
+  "Kyoto, Japan": "Asia/Tokyo",
   "Rio de Janeiro, Brazil": "America/Sao_Paulo",
   "São Paulo, Brazil": "America/Sao_Paulo",
   "Angkor Wat, Cambodia": "Asia/Phnom_Penh",
